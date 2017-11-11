@@ -13,3 +13,5 @@ Summery of DB concepts used
 Reports
 
 Travel_management.sql contains dummy data to understand.
+
+SRS (Software Requirement Specification)
